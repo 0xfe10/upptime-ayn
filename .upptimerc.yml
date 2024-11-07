@@ -7,7 +7,7 @@ assignees:
 
 sites:
   - name: LabelExpert-PRD
-    url: $ENDPOINT_LABELEXPERT_PRD/test
+    url: $ENDPOINT_LABELEXPERT_PRD
   - name: LabelExpert-PRD-CN
     url: $ENDPOINT_LABELEXPERT_PRD_CN
   - name: LabelExpert-STG
