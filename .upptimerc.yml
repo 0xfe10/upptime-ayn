@@ -7,7 +7,7 @@ assignees:
 
 sites:
   - name: LabelExpert-PRD
-    url: $ENDPOINT_LABELEXPERT_PRD/test
+    url: $ENDPOINT_LABELEXPERT_PRD
   - name: LabelExpert-PRD-CN
     url: $ENDPOINT_LABELEXPERT_PRD_CN
   - name: LabelExpert-STG
@@ -15,7 +15,7 @@ sites:
   - name: Aiyin-PRD
     url: $ENDPOINT_AIYIN_PRD
   - name: Aiyin-PRD-CN
-    url: $ENDPOINT_AIYIN_CN
+    url: $ENDPOINT_AIYIN_PRD_CN
   - name: Aiyin-STG
     url: $ENDPOINT_AIYIN_STG
   - name: Analysis-PRD
