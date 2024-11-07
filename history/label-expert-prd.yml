@@ -1,7 +1,7 @@
-url: $ENDPOINT_LABELEXPERT_PRD/test
-status: down
-code: 404
-responseTime: 683
-lastUpdated: 2024-11-07T15:03:48.456Z
+url: $ENDPOINT_LABELEXPERT_PRD
+status: up
+code: 200
+responseTime: 1114
+lastUpdated: 2024-11-07T15:05:17.707Z
 startTime: 2024-11-07T14:39:33.457Z
 generator: Upptime <https://github.com/upptime/upptime>
