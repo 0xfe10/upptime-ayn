@@ -1,7 +1,7 @@
 url: $ENDPOINT_ANALYSIS_STG
 status: up
 code: 200
-responseTime: 220
-lastUpdated: 2024-11-09T07:09:56.071Z
+responseTime: 285
+lastUpdated: 2024-11-09T23:14:10.679Z
 startTime: 2024-11-07T14:39:47.151Z
 generator: Upptime <https://github.com/upptime/upptime>
