@@ -1,7 +1,7 @@
 url: $ENDPOINT_ANALYSIS_PRD
-status: down
-code: 502
-responseTime: 803
-lastUpdated: 2024-11-09T07:00:13.038Z
+status: up
+code: 200
+responseTime: 671
+lastUpdated: 2024-11-09T07:09:52.777Z
 startTime: 2024-11-07T14:39:46.110Z
 generator: Upptime <https://github.com/upptime/upptime>
