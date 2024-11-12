@@ -1,7 +1,7 @@
 url: $ENDPOINT_AIYIN_PRD_GLOBAL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-12T23:15:14.030Z
+status: up
+code: 200
+responseTime: 1189
+lastUpdated: 2024-11-12T23:29:16.921Z
 startTime: 2024-11-07T14:39:36.781Z
 generator: Upptime <https://github.com/upptime/upptime>
