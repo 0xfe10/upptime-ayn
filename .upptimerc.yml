@@ -8,24 +8,32 @@ assignees:
 sites:
   - name: LabelExpert-PRD
     url: $ENDPOINT_LABELEXPERT_PRD_GLOBAL
+    maxResponseTime: 5000
   - name: LabelExpert-PRD-CN
     url: $ENDPOINT_LABELEXPERT_PRD_CN
+    maxResponseTime: 5000
   - name: LabelExpert-STG
     url: $ENDPOINT_LABELEXPERT_STG
+    maxResponseTime: 5000
   - name: Aiyin-PRD
     url: $ENDPOINT_AIYIN_PRD_GLOBAL
+    maxResponseTime: 5000
   - name: Aiyin-PRD-CN
     url: $ENDPOINT_AIYIN_PRD_CN
+    maxResponseTime: 5000
   - name: Aiyin-STG
     url: $ENDPOINT_AIYIN_STG
+    maxResponseTime: 5000
   - name: Analysis-PRD
     url: $ENDPOINT_ANALYSIS_PRD
+    maxResponseTime: 5000
     method: POST
     headers:
       - "Content-Type: application/json"
     body: '[{"method":"tracking.apitrace","payload":{"source":"uptime"}}]'
   - name: Analysis-STG
     url: $ENDPOINT_ANALYSIS_STG
+    maxResponseTime: 5000
     method: POST
     headers:
       - "Content-Type: application/json"
