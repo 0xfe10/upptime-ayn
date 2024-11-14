@@ -24,20 +24,20 @@ sites:
   - name: Aiyin-STG
     url: https://cors.kahub.in/$ENDPOINT_AIYIN_STG
     maxResponseTime: 10000
-  - name: Analysis-PRD
-    url: https://cors.iprtapp.com/$ENDPOINT_ANALYSIS_PRD
-    maxResponseTime: 10000
-    method: POST
-    headers:
-      - "Content-Type: application/json"
-    body: '[{"method":"tracking.apitrace","payload":{"source":"uptime"}}]'
-  - name: Analysis-STG
-    url: https://cors.iprtapp.com/$ENDPOINT_ANALYSIS_STG
-    maxResponseTime: 10000
-    method: POST
-    headers:
-      - "Content-Type: application/json"
-    body: '[{"method":"tracking.apitrace","payload":{"source":"uptime"}}]'
+  # - name: Analysis-PRD
+  #   url: https://cors.iprtapp.com/$ENDPOINT_ANALYSIS_PRD
+  #   maxResponseTime: 10000
+  #   method: POST
+  #   headers:
+  #     - "Content-Type: application/json"
+  #   body: '[{"method":"tracking.apitrace","payload":{"source":"uptime"}}]'
+  # - name: Analysis-STG
+  #   url: https://cors.iprtapp.com/$ENDPOINT_ANALYSIS_STG
+  #   maxResponseTime: 10000
+  #   method: POST
+  #   headers:
+  #     - "Content-Type: application/json"
+  #   body: '[{"method":"tracking.apitrace","payload":{"source":"uptime"}}]'
 
 
 status-website:
