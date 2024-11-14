@@ -1,7 +1,7 @@
-url: https://cors.kahub.in/$ENDPOINT_ANALYSIS_PRD
+url: https://cors.iprtapp.com/$ENDPOINT_ANALYSIS_PRD
 status: down
 code: 400
-responseTime: 1229
-lastUpdated: 2024-11-14T14:29:12.874Z
+responseTime: 814
+lastUpdated: 2024-11-14T14:42:05.549Z
 startTime: 2024-11-07T14:39:46.110Z
 generator: Upptime <https://github.com/upptime/upptime>
