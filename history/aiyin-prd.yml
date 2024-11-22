@@ -1,7 +1,7 @@
 url: https://cors.kahub.in/$ENDPOINT_AIYIN_PRD_GLOBAL
-status: down
-code: 404
-responseTime: 5780
-lastUpdated: 2024-11-22T15:11:27.592Z
+status: up
+code: 200
+responseTime: 1790
+lastUpdated: 2024-11-22T15:32:30.697Z
 startTime: 2024-11-07T14:39:36.781Z
 generator: Upptime <https://github.com/upptime/upptime>
