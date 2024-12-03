@@ -1,7 +1,7 @@
-url: https://cors.kahub.in/$ENDPOINT_AIYIN_STG
+url: $ENDPOINT_AIYIN_STG
 status: up
 code: 200
-responseTime: 1485
-lastUpdated: 2024-12-02T23:18:32.203Z
+responseTime: 1262
+lastUpdated: 2024-12-03T06:01:55.748Z
 startTime: 2024-11-07T14:39:42.423Z
 generator: Upptime <https://github.com/upptime/upptime>
