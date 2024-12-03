@@ -1,7 +1,7 @@
-url: https://cors.kahub.in/$ENDPOINT_LABELEXPERT_PRD_GLOBAL
-status: down
-code: 404
-responseTime: 6000
-lastUpdated: 2024-12-03T05:56:10.683Z
+url: $ENDPOINT_LABELEXPERT_PRD_GLOBAL
+status: up
+code: 200
+responseTime: 852
+lastUpdated: 2024-12-03T06:01:47.424Z
 startTime: 2024-11-07T14:39:33.457Z
 generator: Upptime <https://github.com/upptime/upptime>
