@@ -1,7 +1,7 @@
 url: $ENDPOINT_LABELEXPERT_STG
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-06T08:57:51.381Z
+status: up
+code: 200
+responseTime: 1005
+lastUpdated: 2024-12-06T09:51:29.419Z
 startTime: 2024-11-07T14:39:35.673Z
 generator: Upptime <https://github.com/upptime/upptime>
