@@ -33,25 +33,25 @@
     "url": "$ENDPOINT_LABELEXPERT_STG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "label-expert-stg",
-    "status": "up",
-    "uptime": "91.02%",
-    "uptimeDay": "24.72%",
-    "uptimeWeek": "32.28%",
-    "uptimeMonth": "84.42%",
-    "uptimeYear": "91.02%",
+    "status": "down",
+    "uptime": "91.05%",
+    "uptimeDay": "26.62%",
+    "uptimeWeek": "32.44%",
+    "uptimeMonth": "84.45%",
+    "uptimeYear": "91.05%",
     "time": 921,
     "timeDay": 905,
     "timeWeek": 928,
     "timeMonth": 924,
     "timeYear": 921,
     "dailyMinutesDown": {
-      "2024-12-30": 461,
+      "2024-12-30": 462,
       "2024-12-29": 978,
       "2024-12-28": 1156,
       "2024-12-27": 1024,
       "2024-12-26": 1085,
       "2024-12-25": 1175,
-      "2024-12-24": 947
+      "2024-12-24": 930
     }
   },
   {
@@ -110,12 +110,12 @@
     "url": "$ENDPOINT_AIYIN_STG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aiyin-stg",
-    "status": "up",
-    "uptime": "91.08%",
-    "uptimeDay": "25.26%",
-    "uptimeWeek": "32.72%",
-    "uptimeMonth": "84.52%",
-    "uptimeYear": "91.08%",
+    "status": "down",
+    "uptime": "91.11%",
+    "uptimeDay": "27.19%",
+    "uptimeWeek": "32.89%",
+    "uptimeMonth": "84.56%",
+    "uptimeYear": "91.11%",
     "time": 1299,
     "timeDay": 1311,
     "timeWeek": 1328,
@@ -128,7 +128,7 @@
       "2024-12-27": 1016,
       "2024-12-26": 1077,
       "2024-12-25": 1168,
-      "2024-12-24": 944
+      "2024-12-24": 927
     }
   },
   {
