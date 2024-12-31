@@ -1,7 +1,7 @@
 url: $ENDPOINT_AIYIN_STG
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-31T20:37:36.921Z
+status: up
+code: 200
+responseTime: 1379
+lastUpdated: 2024-12-31T22:15:12.580Z
 startTime: 2024-11-07T14:39:42.423Z
 generator: Upptime <https://github.com/upptime/upptime>
